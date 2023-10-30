@@ -16,4 +16,4 @@ Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacin
 
 - [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/Thesis/8_piece_protein.png) - Here you can view and/or read the thesis itself. It's also available on: 
 
-- [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/edit/main/Presentation_Slides) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus in Amsterdam
+- [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/tree/main/Presentation%20slides) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus in Amsterdam
