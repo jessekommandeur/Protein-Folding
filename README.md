@@ -1,9 +1,19 @@
-# Protein-Folding
+# MSc-Thesis
+## Master Information Studies: Data Science track
 
-The source code of this Protein Folding research project is hosted on GitHub using the MIT License. Under this public Protein Folding repository, I have several code repositories which will be updated on a weekly basis.
+### Protein Folding: Uniform Random Sampling using the HP-Model
+*Author: Jesse Kommandeur, University of Amsterdam, submitted in partial fulfilment for the degree of master of science*
 
-Experiment 1: Sampling with Break - https://github.com/Protein-Folding
-Experiment 2: Sampling with Backtracking - https://github.com/Protein-Folding
-Experiment 3: Sampling with TBD - https://github.com/Protein-Folding
+Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in efficitur ipsum. Fusce ac tincidunt nulla. Integer maximus scelerisque erat, non facilisis sapien fermentum quis. Sed euismod, turpis at pellentesque auctor, quam erat vehicula ipsum, nec feugiat elit sapien in massa. Phasellus lacinia non augue vitae consectetur. Aenean ac rhoncus ligula. Mauris in efficitur neque. Ut in efficitur nibh, sit amet aliquet lectus. Proin sed ultrices ipsum. Mauris interdum vestibulum urna. Nullam vel sem vitae neque faucibus luctus. Aliquam sed suscipit nisl, et placerat lacus.
+
+<p align="center">
+<img src="https://github.com/jessekommandeur/Protein-Folding/edit/main/thesis/frontcover.jpg" width="400" height="300">
 
 
+- [Code](https://github.com/jessekommandeur/Protein-Folding/edit/main/code) - this folder contains all notebooks with codes for each of the experiments.
+
+- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/data) - this is a link to the generated datasets that were used in this research project
+
+- [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/thesis) - Here you can view and/or read the thesis itself. It's also available on: 
+
+- [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/edit/main/thesi) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus. in Amsterdam
