@@ -10,10 +10,10 @@ Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacin
 <img src="https://github.com/jessekommandeur/Protein-Folding/edit/main/thesis/frontcover.jpg" width="400" height="300">
 
 
-- [Code](https://github.com/jessekommandeur/Protein-Folding/edit/main/code) - This folder contains all notebooks with codes for each of the experiments.
+- [Code](https://github.com/jessekommandeur/Protein-Folding/edit/main/Code) - This folder contains all notebooks with codes for each of the experiments.
 
-- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/data) - This folder contains all generated datasets that were used in this research project
+- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Data) - This folder contains all generated datasets that were used in this research project
 
-- [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/thesis/8_piece_protein.png) - Here you can view and/or read the thesis itself. It's also available on: 
+- [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/Thesis/8_piece_protein.png) - Here you can view and/or read the thesis itself. It's also available on: 
 
-- [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/edit/main/thesi) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus. in Amsterdam
+- [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/edit/main/Presentation_Slides) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus in Amsterdam
