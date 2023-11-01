@@ -13,8 +13,10 @@ Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacin
 
 - [Code](https://github.com/jessekommandeur/Protein-Folding/edit/main/Code) - This folder contains all notebooks with codes for each of the experiments.
 
-- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Data) - This folder contains all generated datasets that were used in this research project
-
+- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Data) - This folder contains all generated datasets up to 25MB that were used in this research project
+  
+- [Data]((https://www.kaggle.com/datasets/jessekom/protein-folding-hp-model/data)) - This folder contains all generated datasets up to 10GB that were used in this research project
+  
 - [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/Thesis/) - Here you can view and/or read the thesis itself. It's also available on: 
 
 - [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/tree/main/Presentation%20slides) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus in Amsterdam
