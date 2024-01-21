@@ -9,7 +9,7 @@
 **Keywords**: Protein Folding, Uniform Random Sampling, Break Sampling, Backtracking, Solution Space Sampling
 
 <p align="center">
-<img src="[https://github.com/jessekommandeur/Protein-Folding/blob/main/Thesis/fcover.png]" width="600" height="600">
+<img src="https://github.com/jessekommandeur/Protein-Folding/blob/main/Thesis/fcover.png" width="600" height="600">
 
 
 
