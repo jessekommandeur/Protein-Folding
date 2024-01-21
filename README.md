@@ -10,12 +10,11 @@ Abstract: Protein folding is a fundamental process in biology, with profound imp
 <img src="https://github.com/jessekommandeur/Protein-Folding/blob/main/Thesis/frontpage.png" width="600" height="300">
 
 The source code of this Protein Folding research project is hosted on GitHub and Kaggle using the MIT License. Under the public Protein Folding repository, I have several code repositories:
-- [Algorithms](https://github.com/jessekommandeur/Protein-Folding/edit/main/Code) - This Github folder contains all notebooks with algorithmic code for each of the experiments. https://github.com/jessekommandeur/Protein-Folding
-- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Data) - This folder contains all generated datasets up to 25MB that were used in this research project https://github.com/jessekommandeur/Protein-Folding
-- [Data](https://www.kaggle.com/datasets/jessekom/protein-folding-hp-model) - This page contains all generated datasets up to 7GB that were used in this research project https://www.kaggle.com/datasets/jessekom
-- [Timing data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Timing_Data) - This Github folder contains the notebook and data that was used to time the experiments. https://github.com/jessekommandeur/Protein-Folding
-- [Validation](https://github.com/jessekommandeur/Protein-Folding/edit/main/Validation) - This Github folder contains all notebooks with validation statistics and code for each of the experiments. https://github.com/jessekommandeur/Protein-Folding
-- [Visualization](https://github.com/jessekommandeur/Protein-Folding/edit/main/Visualization) - This Github folder contains all notebooks that were used to visualize the data of the experiments. https://github.com/jessekommandeur/Protein-Folding
+- [Algorithms](https://github.com/jessekommandeur/Protein-Folding/edit/main/Code) - This Github folder contains all notebooks with algorithmic code for each of the experiments.
+- [Data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Data) - This folder contains all generated datasets up to 25MB that were used in this research project.
+- [Data](https://www.kaggle.com/datasets/jessekom/protein-folding-hp-model) - This page contains all generated datasets up to 7GB that were used in this research project.
+- [Timing data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Timing_Data) - This Github folder contains the notebook and data that was used to time the experiments. 
+- [Validation](https://github.com/jessekommandeur/Protein-Folding/edit/main/Validation) - This Github folder contains all notebooks with validation statistics and code for each of the experiments. 
+- [Visualization](https://github.com/jessekommandeur/Protein-Folding/edit/main/Visualization) - This Github folder contains all notebooks that were used to visualize the data of the experiments. 
 - [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/Thesis) - Here you can view and/or read the thesis itself. It’s also available on: https://github.com/jessekommandeur/ProteinFolding
 - [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/tree/main/Presentation%20slides) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus in Amsterdam
-
