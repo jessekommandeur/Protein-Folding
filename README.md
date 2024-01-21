@@ -16,5 +16,5 @@ The source code of this Protein Folding research project is hosted on GitHub and
 - [Timing data](https://github.com/jessekommandeur/Protein-Folding/edit/main/Timing_Data) - This Github folder contains the notebook and data that was used to time the experiments. 
 - [Validation](https://github.com/jessekommandeur/Protein-Folding/edit/main/Validation) - This Github folder contains all notebooks with validation statistics and code for each of the experiments. 
 - [Visualization](https://github.com/jessekommandeur/Protein-Folding/edit/main/Visualization) - This Github folder contains all notebooks that were used to visualize the data of the experiments. 
-- [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/Thesis) - Here you can view and/or read the thesis itself. It’s also available on: https://github.com/jessekommandeur/ProteinFolding
+- [Thesis](https://github.com/jessekommandeur/Protein-Folding/edit/main/Thesis) - Here you can view and/or read the thesis itself. It’s also available on: 
 - [Presentation slides](https://github.com/jessekommandeur/Protein-Folding/tree/main/Presentation%20slides) - These are all presentations that were given during the weekly thesis sessions under the supervision of Daan van den Berg at the VU Campus in Amsterdam
