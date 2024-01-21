@@ -9,9 +9,7 @@
 **Keywords**: Protein Folding, Uniform Random Sampling, Break Sampling, Backtracking, Solution Space Sampling
 
 <p align="center">
-<img src="https://github.com/jessekommandeur/Protein-Folding/blob/main/Thesis/fcover.png" width="600" height="600">
-
-
+<img src="https://github.com/jessekommandeur/Protein-Folding/blob/main/Visualizations/Figures/fcover.png" width="600" height="600">
 
 The source code of this Protein Folding research project is hosted on GitHub and Kaggle using the MIT License. Under the public Protein Folding repository, I have several code repositories:
 - [Algorithms](https://github.com/jessekommandeur/Protein-Folding/edit/main/Code) - This Github folder contains all notebooks with algorithmic code for each of the experiments.
